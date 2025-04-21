@@ -1,1 +1,3 @@
-<!-- Placeholder for robots.txt -->
+User-agent: *
+Allow: /
+Sitemap: https://daross01.github.io/nails-inspo/sitemap.xml
